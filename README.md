@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Prismasell
 👋 Welcome to PrismaSell's GitHub Profile!
 Who We Are
 At PrismaSell, we specialize in creating innovative solutions for e-commerce platforms, with a focus on Magento development. Our team is passionate about enhancing user experiences, streamlining business processes, and providing cutting-edge tools for online businesses to thrive. With years of expertise in web development and e-commerce systems, we aim to provide solutions that are both efficient and user-friendly.
